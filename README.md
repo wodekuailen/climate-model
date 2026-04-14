@@ -1,2 +1,0 @@
-# climate-model
-albodo model 
